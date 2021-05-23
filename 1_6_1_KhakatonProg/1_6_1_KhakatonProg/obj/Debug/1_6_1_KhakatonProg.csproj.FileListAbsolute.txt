@@ -1,0 +1,7 @@
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_6_1_KhakatonProg\1_6_1_KhakatonProg\bin\Debug\1_6_1_KhakatonProg.exe.config
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_6_1_KhakatonProg\1_6_1_KhakatonProg\bin\Debug\1_6_1_KhakatonProg.exe
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_6_1_KhakatonProg\1_6_1_KhakatonProg\bin\Debug\1_6_1_KhakatonProg.pdb
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_6_1_KhakatonProg\1_6_1_KhakatonProg\obj\Debug\1_6_1_KhakatonProg.csprojAssemblyReference.cache
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_6_1_KhakatonProg\1_6_1_KhakatonProg\obj\Debug\1_6_1_KhakatonProg.csproj.CoreCompileInputs.cache
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_6_1_KhakatonProg\1_6_1_KhakatonProg\obj\Debug\1_6_1_KhakatonProg.exe
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_6_1_KhakatonProg\1_6_1_KhakatonProg\obj\Debug\1_6_1_KhakatonProg.pdb
